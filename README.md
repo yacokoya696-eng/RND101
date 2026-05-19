@@ -1,7 +1,5 @@
 # RND101
 
-# RND102
-
 Whitelabel Error Page
 
 This application has no ******** mapping for /error, so you are seeing this as a fallback. There was an unexpected error
